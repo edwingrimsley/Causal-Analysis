@@ -1,0 +1,821 @@
+"store","sheet","state","chain","co_owned","region","wave","period","fte","wage_st","price_meal","status2"
+1,46,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",40.5,NA,2.58,1
+1,46,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",24,4.3,NA,1
+2,49,"PA","KFC",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",13.75,NA,4.26,1
+2,49,"PA","KFC",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",11.5,4.45,4.25,1
+3,506,"PA","KFC",1,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",8.5,NA,4.02,1
+3,506,"PA","KFC",1,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",10.5,5,4.02,1
+4,56,"PA","Wendy's",1,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",34,5,3.48,1
+4,56,"PA","Wendy's",1,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",20,5.25,2.58,1
+5,61,"PA","Wendy's",1,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",24,5.5,3.29,1
+5,61,"PA","Wendy's",1,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",35.5,4.75,2.8,1
+6,62,"PA","Wendy's",1,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",20.5,5,2.59,1
+6,62,"PA","Wendy's",1,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",NA,NA,NA,1
+7,445,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",70.5,5,2.86,1
+7,445,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",29,4.75,2.84,1
+8,451,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",23.5,5,2.85,1
+8,451,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",36.5,5,2.89,1
+9,455,"PA","KFC",1,"PA: Easton area",1,"Feb 1992 (before)",11,5.25,3.78,1
+9,455,"PA","KFC",1,"PA: Easton area",2,"Nov 1992 (after)",11,5,4.1,1
+10,458,"PA","KFC",1,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",9,5,3.99,1
+10,458,"PA","KFC",1,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",8.5,5,3.95,1
+11,462,"PA","Roy Rogers",1,"PA: Easton area",1,"Feb 1992 (before)",15.5,5,3.17,1
+11,462,"PA","Roy Rogers",1,"PA: Easton area",2,"Nov 1992 (after)",17.5,4.75,2.91,1
+12,468,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",58,5,2.84,1
+12,468,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",29,5,2.67,1
+13,469,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",26.5,5,2.6,1
+13,469,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",30.5,4.5,2.6,1
+14,470,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",28.5,5.5,2.75,1
+14,470,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",26,4.75,2.81,1
+15,474,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",13.5,5,3.12,1
+15,474,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",18,4.5,2.97,1
+16,481,"PA","KFC",1,"PA: Easton area",1,"Feb 1992 (before)",16.75,5.25,4.22,1
+16,481,"PA","KFC",1,"PA: Easton area",2,"Nov 1992 (after)",20,5,4,1
+17,483,"PA","KFC",1,"PA: Easton area",1,"Feb 1992 (before)",9.5,5,3.99,1
+17,483,"PA","KFC",1,"PA: Easton area",2,"Nov 1992 (after)",13.5,4.75,4.02,1
+18,487,"PA","Roy Rogers",1,"PA: Easton area",1,"Feb 1992 (before)",15,5,2.97,1
+18,487,"PA","Roy Rogers",1,"PA: Easton area",2,"Nov 1992 (after)",19,4.75,3,1
+19,488,"PA","Roy Rogers",0,"PA: Easton area",1,"Feb 1992 (before)",29.5,5,2.85,1
+19,488,"PA","Roy Rogers",0,"PA: Easton area",2,"Nov 1992 (after)",15.5,4.75,2.96,1
+20,489,"PA","Roy Rogers",0,"PA: Easton area",1,"Feb 1992 (before)",18.5,5,3,1
+20,489,"PA","Roy Rogers",0,"PA: Easton area",2,"Nov 1992 (after)",14.5,4.25,3.07,1
+21,490,"PA","Roy Rogers",1,"PA: Easton area",1,"Feb 1992 (before)",20.25,5,3.11,1
+21,490,"PA","Roy Rogers",1,"PA: Easton area",2,"Nov 1992 (after)",14,5,3.07,1
+22,493,"PA","Roy Rogers",1,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",36,5,3.96,1
+22,493,"PA","Roy Rogers",1,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",19,4.9,2.87,1
+23,495,"PA","Roy Rogers",0,"PA: Easton area",1,"Feb 1992 (before)",21,5,3,1
+23,495,"PA","Roy Rogers",0,"PA: Easton area",2,"Nov 1992 (after)",21,5,2.98,1
+24,496,"PA","Roy Rogers",1,"PA: Easton area",1,"Feb 1992 (before)",20.5,5,2.68,1
+24,496,"PA","Roy Rogers",1,"PA: Easton area",2,"Nov 1992 (after)",18,4.75,2.91,1
+25,499,"PA","Wendy's",1,"PA: Easton area",1,"Feb 1992 (before)",19,5,3.34,1
+25,499,"PA","Wendy's",1,"PA: Easton area",2,"Nov 1992 (after)",20.5,5,2.53,1
+26,509,"PA","Roy Rogers",1,"PA: Easton area",1,"Feb 1992 (before)",14,5,3.16,1
+26,509,"PA","Roy Rogers",1,"PA: Easton area",2,"Nov 1992 (after)",13.5,4.25,2.95,1
+27,515,"PA","Roy Rogers",1,"PA: Easton area",1,"Feb 1992 (before)",19,5,3.15,1
+27,515,"PA","Roy Rogers",1,"PA: Easton area",2,"Nov 1992 (after)",17.5,4.75,2.96,1
+28,37,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",32.5,4.25,2.66,1
+28,37,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",25.5,4.25,2.68,1
+29,39,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",19,4.25,2.28,1
+29,39,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",15.5,NA,NA,1
+30,40,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",27,4.25,2.6,1
+30,40,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",25.5,4.25,2.67,1
+31,41,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",19.5,4.25,2.65,1
+31,41,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",27,4.25,2.63,1
+32,42,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",24,4.5,2.67,1
+32,42,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",16,4.25,NA,1
+33,45,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",18,4.25,2.67,1
+33,45,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",19,4.25,2.59,1
+34,47,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",NA,4.5,2.77,1
+34,47,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",24.5,4.25,2.77,1
+35,48,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",19,4.25,2.48,1
+35,48,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",25,4.38,2.64,1
+36,50,"PA","KFC",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",14,4.5,5.4,1
+36,50,"PA","KFC",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",17,4.75,4.25,1
+37,51,"PA","KFC",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",10.5,4.25,4.25,1
+37,51,"PA","KFC",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",16.5,4.25,4.24,1
+38,57,"PA","Wendy's",1,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",38,4.67,2.56,1
+38,57,"PA","Wendy's",1,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",20,4.5,2.69,1
+39,58,"PA","Wendy's",1,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",23.5,4.75,2.65,1
+39,58,"PA","Wendy's",1,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",18,4.5,2.82,1
+40,59,"PA","Wendy's",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",10.5,4.25,2.61,1
+40,59,"PA","Wendy's",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",12,4.25,2.71,1
+41,60,"PA","Wendy's",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",25,4.25,2.54,1
+41,60,"PA","Wendy's",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",25,4.25,2.68,1
+42,407,"PA","KFC",1,"PA: Easton area",1,"Feb 1992 (before)",11,4.75,4.02,1
+42,407,"PA","KFC",1,"PA: Easton area",2,"Nov 1992 (after)",11,4.25,4.32,1
+43,430,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",36.5,4.25,2.5,1
+43,430,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",27,4.25,2.39,1
+44,432,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",52.5,4.5,2.47,1
+44,432,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",34,5.05,2.47,1
+45,433,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",29,4.25,2.48,1
+45,433,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",25,NA,2.42,1
+46,434,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",45,4.25,NA,1
+46,434,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",37.5,4.25,2.55,1
+47,435,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",22.75,4.25,2.49,1
+47,435,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",21,4.25,2.47,1
+48,438,"PA","KFC",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",7.5,4.25,4.28,1
+48,438,"PA","KFC",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",9.5,4.25,4.22,1
+49,440,"PA","Wendy's",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",15.5,4.25,3.69,1
+49,440,"PA","Wendy's",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",18,NA,3.6,1
+50,441,"PA","Wendy's",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",38,4.25,2.5,1
+50,441,"PA","Wendy's",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",18,4.25,3.61,1
+51,443,"PA","Wendy's",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",17.5,4.25,3.48,1
+51,443,"PA","Wendy's",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",19,4.35,3.61,1
+52,444,"PA","Wendy's",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",25,4.25,2.53,1
+52,444,"PA","Wendy's",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",31.5,4.5,NA,1
+53,446,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",NA,4.5,2.81,1
+53,446,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",23,5,2.72,1
+54,448,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",21,4.75,2.72,1
+54,448,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",24.5,4.5,2.66,1
+55,449,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",15.5,4.87,NA,1
+55,449,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",27.5,5,2.54,1
+56,450,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",15.5,4.75,2.63,1
+56,450,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",34.5,4.75,2.61,1
+57,454,"PA","KFC",1,"PA: Easton area",1,"Feb 1992 (before)",8.5,4.5,4.2,1
+57,454,"PA","KFC",1,"PA: Easton area",2,"Nov 1992 (after)",14,5,4.31,1
+58,459,"PA","Roy Rogers",1,"PA: Easton area",1,"Feb 1992 (before)",18,4.25,2.89,1
+58,459,"PA","Roy Rogers",1,"PA: Easton area",2,"Nov 1992 (after)",15,4.35,2.91,1
+59,466,"PA","Wendy's",0,"PA: Easton area",1,"Feb 1992 (before)",20.75,4.75,2.68,1
+59,466,"PA","Wendy's",0,"PA: Easton area",2,"Nov 1992 (after)",23,NA,NA,1
+60,471,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",39,4.25,2.72,1
+60,471,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",26.5,4.25,2.74,1
+61,472,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",41.5,4.25,2.93,1
+61,472,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",23.5,4.9,2.71,1
+62,473,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",22.5,4.75,2.72,1
+62,473,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",35.5,4.5,2.67,1
+63,475,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",32,4.5,2.81,1
+63,475,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",21,4.5,2.86,1
+64,476,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",24,4.25,2.65,1
+64,476,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",23,4.75,2.98,1
+65,477,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",26,4.25,2.74,1
+65,477,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",20,6.25,2.69,1
+66,478,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",48.5,4.5,2.74,1
+66,478,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",27,4.35,2.8,1
+67,485,"PA","KFC",1,"PA: Easton area",1,"Feb 1992 (before)",8.5,4.5,4.02,1
+67,485,"PA","KFC",1,"PA: Easton area",2,"Nov 1992 (after)",13,4.5,4.06,1
+68,491,"PA","Roy Rogers",0,"PA: Easton area",1,"Feb 1992 (before)",18.5,4.5,2.91,3
+68,491,"PA","Roy Rogers",0,"PA: Easton area",2,"Nov 1992 (after)",0,NA,NA,3
+69,492,"PA","Roy Rogers",1,"PA: Easton area",1,"Feb 1992 (before)",13,4.5,3.1,1
+69,492,"PA","Roy Rogers",1,"PA: Easton area",2,"Nov 1992 (after)",13.5,4.5,3.27,1
+70,497,"PA","Wendy's",1,"PA: Easton area",1,"Feb 1992 (before)",22.5,4.5,2.59,1
+70,497,"PA","Wendy's",1,"PA: Easton area",2,"Nov 1992 (after)",NA,NA,2.7,1
+71,498,"PA","Wendy's",1,"PA: Easton area",1,"Feb 1992 (before)",28,4.75,2.6,1
+71,498,"PA","Wendy's",1,"PA: Easton area",2,"Nov 1992 (after)",26.75,5,2.72,1
+72,501,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",24.5,4.25,2.62,1
+72,501,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",43.5,4.75,2.85,1
+73,503,"PA","Burger King",0,"PA: Easton area",1,"Feb 1992 (before)",18.5,4.75,2.72,1
+73,503,"PA","Burger King",0,"PA: Easton area",2,"Nov 1992 (after)",41.25,4.5,2.81,1
+74,510,"PA","Roy Rogers",1,"PA: Easton area",1,"Feb 1992 (before)",23.5,4.25,3.01,1
+74,510,"PA","Roy Rogers",1,"PA: Easton area",2,"Nov 1992 (after)",14.25,NA,NA,1
+75,511,"PA","Roy Rogers",1,"PA: Easton area",1,"Feb 1992 (before)",15,4.75,2.97,1
+75,511,"PA","Roy Rogers",1,"PA: Easton area",2,"Nov 1992 (after)",12.5,4.75,2.91,1
+76,514,"PA","Roy Rogers",0,"PA: Easton area",1,"Feb 1992 (before)",18,4.5,2.78,1
+76,514,"PA","Roy Rogers",0,"PA: Easton area",2,"Nov 1992 (after)",34,4.25,2.95,1
+77,516,"PA","Roy Rogers",1,"PA: Easton area",1,"Feb 1992 (before)",20.25,4.75,3.01,1
+77,516,"PA","Roy Rogers",1,"PA: Easton area",2,"Nov 1992 (after)",10,4.91,2.85,1
+78,521,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",15.5,4.25,NA,1
+78,521,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",14,4.4,2.14,1
+79,522,"PA","Burger King",0,"PA: Philadelphia suburbs",1,"Feb 1992 (before)",21,4.35,2.81,1
+79,522,"PA","Burger King",0,"PA: Philadelphia suburbs",2,"Nov 1992 (after)",17.5,4.25,2.69,1
+80,113,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",15,NA,3.01,1
+80,113,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",27,5.05,2.93,1
+81,123,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",15,NA,3.02,1
+81,123,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",21.5,5.05,2.99,1
+82,135,"NJ","Roy Rogers",0,"Central NJ",1,"Feb 1992 (before)",24,NA,NA,1
+82,135,"NJ","Roy Rogers",0,"Central NJ",2,"Nov 1992 (after)",23,5.05,3.27,1
+83,138,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",19.25,NA,3.25,1
+83,138,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",21.5,5.05,3.16,1
+84,153,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",21.5,NA,2.84,1
+84,153,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",34.5,5.05,2.95,1
+85,181,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",9.5,NA,4.04,1
+85,181,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",10.5,5.05,4.34,1
+86,191,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",44,NA,3.07,1
+86,191,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",16.5,5.05,3.01,1
+87,231,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",NA,NA,2.99,1
+87,231,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",23,5.05,2.8,1
+88,236,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",21,NA,3.26,1
+88,236,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",38,5.05,3.1,1
+89,254,"NJ","Wendy's",0,"South NJ",1,"Feb 1992 (before)",28,NA,2.98,1
+89,254,"NJ","Wendy's",0,"South NJ",2,"Nov 1992 (after)",36,5.25,2.9,1
+90,255,"NJ","Wendy's",0,"South NJ",1,"Feb 1992 (before)",10,NA,2.65,1
+90,255,"NJ","Wendy's",0,"South NJ",2,"Nov 1992 (after)",16,NA,3.96,1
+91,294,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",20.5,NA,2.96,1
+91,294,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",20.5,5.05,2.93,1
+92,306,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",25.5,NA,NA,1
+92,306,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",19,5.05,3.21,1
+93,311,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",19,NA,2.88,1
+93,311,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",53,5.05,3.01,1
+94,315,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",16.5,NA,2.73,1
+94,315,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",16.5,5.05,2.76,1
+95,335,"NJ","Burger King",1,"South NJ",1,"Feb 1992 (before)",17,NA,2.9,1
+95,335,"NJ","Burger King",1,"South NJ",2,"Nov 1992 (after)",16.5,5.05,2.93,1
+96,372,"NJ","Burger King",1,"North NJ",1,"Feb 1992 (before)",27.5,NA,3.15,1
+96,372,"NJ","Burger King",1,"North NJ",2,"Nov 1992 (after)",45,5.05,3.15,1
+97,6,"NJ","Roy Rogers",1,"Central NJ",1,"Feb 1992 (before)",5,5,4.72,1
+97,6,"NJ","Roy Rogers",1,"Central NJ",2,"Nov 1992 (after)",8,5.05,4.35,1
+98,14,"NJ","KFC",0,"Central NJ",1,"Feb 1992 (before)",16,5.12,4.4,1
+98,14,"NJ","KFC",0,"Central NJ",2,"Nov 1992 (after)",15.5,5.05,4.59,1
+99,26,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",41.5,5.56,2.95,1
+99,26,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",24,5.05,2.89,1
+100,27,"NJ","KFC",1,"Central NJ",1,"Feb 1992 (before)",13,5,4.25,1
+100,27,"NJ","KFC",1,"Central NJ",2,"Nov 1992 (after)",7.5,5.05,4.42,1
+101,30,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",10,5,4.65,1
+101,30,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",7.5,5.05,4.55,1
+102,31,"NJ","KFC",0,"Central NJ",1,"Feb 1992 (before)",15,5.25,4.65,1
+102,31,"NJ","KFC",0,"Central NJ",2,"Nov 1992 (after)",18.5,5.05,4.69,1
+103,33,"NJ","Roy Rogers",0,"North NJ",1,"Feb 1992 (before)",26,5,3.04,1
+103,33,"NJ","Roy Rogers",0,"North NJ",2,"Nov 1992 (after)",16.5,5.05,3.22,1
+104,36,"NJ","Wendy's",0,"Central NJ",1,"Feb 1992 (before)",18,5.5,4.5,1
+104,36,"NJ","Wendy's",0,"Central NJ",2,"Nov 1992 (after)",33.5,5.05,3.03,1
+105,77,"NJ","Roy Rogers",0,"North NJ",1,"Feb 1992 (before)",35,5,3.42,1
+105,77,"NJ","Roy Rogers",0,"North NJ",2,"Nov 1992 (after)",37,5.05,3.17,1
+106,78,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",21,5,3.16,1
+106,78,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",18,5.05,3.17,1
+107,81,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",34.5,5,3.1,1
+107,81,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",26.5,5.05,4.16,1
+108,82,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",18.25,5,3.15,1
+108,82,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",33,5.05,3.14,1
+109,83,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",24.5,5,4.17,1
+109,83,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",NA,5.05,2.99,1
+110,85,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",20,5.5,3.16,1
+110,85,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",20.5,5.05,3.17,1
+111,89,"NJ","Burger King",1,"Central NJ",1,"Feb 1992 (before)",16,5,3.08,1
+111,89,"NJ","Burger King",1,"Central NJ",2,"Nov 1992 (after)",24.5,5.5,3.17,1
+112,94,"NJ","KFC",0,"Central NJ",1,"Feb 1992 (before)",17.5,5,4.42,1
+112,94,"NJ","KFC",0,"Central NJ",2,"Nov 1992 (after)",16,5.05,4.37,1
+113,103,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",20.5,5,2.71,1
+113,103,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",NA,5.05,3.15,1
+114,112,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",20,5,3.1,1
+114,112,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",23.5,5.05,4.27,1
+115,128,"NJ","KFC",1,"Central NJ",1,"Feb 1992 (before)",12.25,5,4.25,1
+115,128,"NJ","KFC",1,"Central NJ",2,"Nov 1992 (after)",13,5.05,4.16,1
+116,129,"NJ","Roy Rogers",0,"Central NJ",1,"Feb 1992 (before)",33,5.25,2.84,1
+116,129,"NJ","Roy Rogers",0,"Central NJ",2,"Nov 1992 (after)",20,5.05,3,1
+117,131,"NJ","Roy Rogers",0,"Central NJ",1,"Feb 1992 (before)",31.5,5.5,3.18,1
+117,131,"NJ","Roy Rogers",0,"Central NJ",2,"Nov 1992 (after)",22,5.05,3.21,1
+118,139,"NJ","Wendy's",0,"Central NJ",1,"Feb 1992 (before)",NA,5.5,2.96,1
+118,139,"NJ","Wendy's",0,"Central NJ",2,"Nov 1992 (after)",28.5,5.5,NA,1
+119,143,"NJ","Wendy's",0,"Central NJ",1,"Feb 1992 (before)",18,5.37,2.96,4
+119,143,"NJ","Wendy's",0,"Central NJ",2,"Nov 1992 (after)",NA,NA,NA,4
+120,144,"NJ","Wendy's",0,"Central NJ",1,"Feb 1992 (before)",28,5.05,2.82,1
+120,144,"NJ","Wendy's",0,"Central NJ",2,"Nov 1992 (after)",25.5,5.05,3.14,1
+121,145,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",16.5,5,2.96,1
+121,145,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",18,5.28,2.96,1
+122,147,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",14.75,5.12,2.96,1
+122,147,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",9,5.25,2.95,1
+123,148,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",23.5,5.25,2.96,1
+123,148,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",26.5,5.05,2.93,1
+124,151,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",10,5,2.94,3
+124,151,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",0,NA,NA,3
+125,152,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",46.5,5.12,3.14,1
+125,152,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",23.75,5.05,3.04,1
+126,157,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",15.5,5,4.1,1
+126,157,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",18,5.5,4.25,1
+127,161,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",24.5,5,3.2,1
+127,161,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",36,5.05,3.22,1
+128,163,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",24,5,3.33,1
+128,163,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",21,5.05,NA,1
+129,164,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",23,5,3.2,1
+129,164,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",15.5,5.05,3.22,1
+130,165,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",28,5,3.01,1
+130,165,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",22.5,5.05,3.08,1
+131,169,"NJ","Burger King",1,"North NJ",1,"Feb 1992 (before)",32.5,5,3.08,1
+131,169,"NJ","Burger King",1,"North NJ",2,"Nov 1992 (after)",27,5.05,3.21,1
+132,170,"NJ","Burger King",1,"North NJ",1,"Feb 1992 (before)",23,5,3.2,1
+132,170,"NJ","Burger King",1,"North NJ",2,"Nov 1992 (after)",34,5.05,3.58,1
+133,187,"NJ","Roy Rogers",0,"North NJ",1,"Feb 1992 (before)",17,5.62,3.27,1
+133,187,"NJ","Roy Rogers",0,"North NJ",2,"Nov 1992 (after)",16.75,5.05,3.22,1
+134,190,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",30,5,3.15,1
+134,190,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",26,5.05,3.8,1
+135,196,"NJ","Wendy's",1,"North NJ",1,"Feb 1992 (before)",21.5,5,2.86,1
+135,196,"NJ","Wendy's",1,"North NJ",2,"Nov 1992 (after)",18,5.05,4.01,1
+136,197,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",32,5,2.77,1
+136,197,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",20.5,5.05,2.95,1
+137,234,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",8,5,NA,1
+137,234,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",15,5.05,2.63,1
+138,240,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",35.5,5.1,3.26,1
+138,240,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",25.5,5.05,3.15,1
+139,241,"NJ","Roy Rogers",0,"North NJ",1,"Feb 1992 (before)",31.5,5,3.2,1
+139,241,"NJ","Roy Rogers",0,"North NJ",2,"Nov 1992 (after)",NA,5.05,3.25,1
+140,242,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",33,5.25,3.18,1
+140,242,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",20,5.05,3.22,1
+141,245,"NJ","Roy Rogers",0,"North NJ",1,"Feb 1992 (before)",22,5.5,3.24,1
+141,245,"NJ","Roy Rogers",0,"North NJ",2,"Nov 1992 (after)",18,5.05,3.27,1
+142,259,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",23,5,2.72,1
+142,259,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",26.5,5.05,NA,1
+143,268,"NJ","Burger King",1,"South NJ",1,"Feb 1992 (before)",23,5,2.72,1
+143,268,"NJ","Burger King",1,"South NJ",2,"Nov 1992 (after)",23.25,5.05,2.56,1
+144,271,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",8.5,5,4.15,1
+144,271,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",10.5,5.05,3.91,1
+145,272,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",12.5,5.05,4.03,1
+145,272,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",12,5.25,3.99,1
+146,274,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",9.5,5.5,3.99,1
+146,274,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",9.5,5.05,NA,1
+147,276,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",13,5,3.88,1
+147,276,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",15.5,5.05,4,1
+148,296,"NJ","Burger King",1,"North NJ",1,"Feb 1992 (before)",17,5.3,3.02,1
+148,296,"NJ","Burger King",1,"North NJ",2,"Nov 1992 (after)",14.5,5.05,2.99,1
+149,299,"NJ","KFC",1,"North NJ",1,"Feb 1992 (before)",9,5,4.25,1
+149,299,"NJ","KFC",1,"North NJ",2,"Nov 1992 (after)",14,5.05,4.21,1
+150,301,"NJ","KFC",1,"North NJ",1,"Feb 1992 (before)",19,5,4.25,1
+150,301,"NJ","KFC",1,"North NJ",2,"Nov 1992 (after)",6.5,5.05,4.1,1
+151,320,"NJ","KFC",0,"South NJ",1,"Feb 1992 (before)",11.5,5,4.37,1
+151,320,"NJ","KFC",0,"South NJ",2,"Nov 1992 (after)",10,5.05,4.32,1
+152,321,"NJ","KFC",0,"South NJ",1,"Feb 1992 (before)",13,5,4.42,1
+152,321,"NJ","KFC",0,"South NJ",2,"Nov 1992 (after)",11.5,5.05,4.32,1
+153,324,"NJ","Roy Rogers",0,"South NJ",1,"Feb 1992 (before)",48,5.25,NA,1
+153,324,"NJ","Roy Rogers",0,"South NJ",2,"Nov 1992 (after)",46.5,5.05,3.32,1
+154,326,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",45.5,5.15,NA,1
+154,326,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",26.5,5.05,NA,1
+155,330,"NJ","Wendy's",0,"South NJ",1,"Feb 1992 (before)",15,5.42,2.82,1
+155,330,"NJ","Wendy's",0,"South NJ",2,"Nov 1992 (after)",16,5.67,2.99,1
+156,334,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",18,5,2.73,1
+156,334,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",13,5.05,2.65,1
+157,349,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",21,5,2.98,1
+157,349,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",14,5.05,2.96,1
+158,354,"NJ","Wendy's",0,"South NJ",1,"Feb 1992 (before)",20.5,5.06,2.76,1
+158,354,"NJ","Wendy's",0,"South NJ",2,"Nov 1992 (after)",15.5,5.05,2.79,1
+159,356,"NJ","Wendy's",0,"South NJ",1,"Feb 1992 (before)",20.5,5.05,2.81,1
+159,356,"NJ","Wendy's",0,"South NJ",2,"Nov 1992 (after)",18,5.05,2.9,1
+160,357,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",17.5,5,2.76,1
+160,357,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",27,5.25,4.19,1
+161,371,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",27.5,5,3.03,1
+161,371,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",27,5.25,NA,1
+162,373,"NJ","Burger King",1,"North NJ",1,"Feb 1992 (before)",24,5,2.99,1
+162,373,"NJ","Burger King",1,"North NJ",2,"Nov 1992 (after)",29.5,5.05,3.06,1
+163,375,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",34,5.25,NA,1
+163,375,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",16.5,5.5,3,1
+164,378,"NJ","Burger King",1,"North NJ",1,"Feb 1992 (before)",18,5,3.16,1
+164,378,"NJ","Burger King",1,"North NJ",2,"Nov 1992 (after)",31.5,5.05,3.07,1
+165,381,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",24,5,3.54,1
+165,381,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",27.5,5.05,3.69,1
+166,403,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",NA,5.05,3.27,1
+166,403,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",25.5,5.05,3.22,1
+167,406,"NJ","Wendy's",1,"North NJ",1,"Feb 1992 (before)",33.5,5,NA,1
+167,406,"NJ","Wendy's",1,"North NJ",2,"Nov 1992 (after)",32,5.5,3.77,1
+168,407,"NJ","Wendy's",1,"North NJ",1,"Feb 1992 (before)",12,5.75,3.72,1
+168,407,"NJ","Wendy's",1,"North NJ",2,"Nov 1992 (after)",14.5,5.5,4.53,1
+169,409,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",35,5,3.01,1
+169,409,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",10.5,5.05,3.14,1
+170,1,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",35,4.5,2.61,1
+170,1,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",44,5.05,2.74,1
+171,2,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",16,4.75,2.93,1
+171,2,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",15.5,5.25,3,1
+172,3,"NJ","KFC",0,"Central NJ",1,"Feb 1992 (before)",15.5,4.25,5.1,1
+172,3,"NJ","KFC",0,"Central NJ",2,"Nov 1992 (after)",10.5,5.05,4.74,1
+173,4,"NJ","Roy Rogers",0,"Central NJ",1,"Feb 1992 (before)",19,4.75,4.19,1
+173,4,"NJ","Roy Rogers",0,"Central NJ",2,"Nov 1992 (after)",24,5.05,3.48,1
+174,5,"NJ","Roy Rogers",0,"Central NJ",1,"Feb 1992 (before)",24,4.5,NA,1
+174,5,"NJ","Roy Rogers",0,"Central NJ",2,"Nov 1992 (after)",29,5.15,2.93,1
+175,8,"NJ","Wendy's",0,"Central NJ",1,"Feb 1992 (before)",NA,4.8,4.21,1
+175,8,"NJ","Wendy's",0,"Central NJ",2,"Nov 1992 (after)",30.5,5.05,2.96,1
+176,9,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",36,4.37,2.56,1
+176,9,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",20,5.05,3.04,1
+177,10,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",29,4.25,2.74,1
+177,10,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",26.5,5.05,2.75,1
+178,11,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",29,4.25,2.89,1
+178,11,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",27,5.05,2.86,1
+179,12,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",21.25,4.37,2.75,1
+179,12,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",26.5,5.05,2.87,1
+180,13,"NJ","KFC",0,"Central NJ",1,"Feb 1992 (before)",15.5,4.5,4.67,1
+180,13,"NJ","KFC",0,"Central NJ",2,"Nov 1992 (after)",10.5,5,4.7,1
+181,15,"NJ","Roy Rogers",0,"Central NJ",1,"Feb 1992 (before)",19.5,4.6,2.95,1
+181,15,"NJ","Roy Rogers",0,"Central NJ",2,"Nov 1992 (after)",18,5.05,4.06,1
+182,16,"NJ","Roy Rogers",0,"Central NJ",1,"Feb 1992 (before)",21,4.5,NA,1
+182,16,"NJ","Roy Rogers",0,"Central NJ",2,"Nov 1992 (after)",18.5,5.05,3,1
+183,17,"NJ","Roy Rogers",0,"Central NJ",1,"Feb 1992 (before)",14,4.37,4.08,1
+183,17,"NJ","Roy Rogers",0,"Central NJ",2,"Nov 1992 (after)",25.5,5.05,2.94,1
+184,18,"NJ","Roy Rogers",0,"Central NJ",1,"Feb 1992 (before)",30.5,4.25,NA,1
+184,18,"NJ","Roy Rogers",0,"Central NJ",2,"Nov 1992 (after)",32,5.05,2.68,1
+185,19,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",23.5,4.25,2.89,1
+185,19,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",33,5.05,2.92,1
+186,21,"NJ","KFC",0,"South NJ",1,"Feb 1992 (before)",14,4.45,3.99,1
+186,21,"NJ","KFC",0,"South NJ",2,"Nov 1992 (after)",7.5,5.05,4.31,1
+187,22,"NJ","Roy Rogers",0,"South NJ",1,"Feb 1992 (before)",14.5,4.35,2.85,1
+187,22,"NJ","Roy Rogers",0,"South NJ",2,"Nov 1992 (after)",12.5,5.05,3.04,1
+188,23,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",15.5,4.5,2.96,1
+188,23,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",24,5.05,2.93,1
+189,24,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",26.5,4.75,3.02,1
+189,24,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",29,5.05,2.99,1
+190,28,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",8,4.5,4.79,1
+190,28,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",10,NA,NA,1
+191,29,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",5.5,4.5,4.63,1
+191,29,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",9.5,5.05,4.74,1
+192,32,"NJ","Roy Rogers",0,"North NJ",1,"Feb 1992 (before)",23.25,4.5,3.2,1
+192,32,"NJ","Roy Rogers",0,"North NJ",2,"Nov 1992 (after)",17.5,5.05,4.61,1
+193,34,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",15.5,4.95,3.2,1
+193,34,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",17.5,5.05,3.06,1
+194,35,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",32.25,4.5,4.04,1
+194,35,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",25,5.05,NA,1
+195,38,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",30,4.25,2.98,1
+195,38,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",26,5.05,2.56,1
+196,63,"NJ","Burger King",1,"North NJ",1,"Feb 1992 (before)",NA,4.25,3.24,1
+196,63,"NJ","Burger King",1,"North NJ",2,"Nov 1992 (after)",24,5.05,3.21,1
+197,64,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",30.5,4.5,2.96,1
+197,64,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",22.5,5.05,2.95,1
+198,65,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",14,4.8,3.02,2
+198,65,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",NA,5.05,NA,2
+199,66,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",27,4.25,2.96,1
+199,66,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",35,5.05,2.95,1
+200,67,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",18.5,4.5,3.4,1
+200,67,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",17.75,5.05,3.59,1
+201,68,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",38,4.25,3.11,1
+201,68,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",24.5,5.05,2.95,1
+202,69,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",16.5,4.25,3.07,1
+202,69,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",16.5,5.05,3.27,1
+203,70,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",50,4.5,3.03,1
+203,70,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",30,5.05,3.01,1
+204,71,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",20.5,4.75,2.96,1
+204,71,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",39,5.05,2.95,1
+205,73,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",6.5,4.25,4.57,1
+205,73,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",17,5.05,4.53,1
+206,75,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",13.5,4.25,5.21,1
+206,75,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",12.5,5.05,5.07,1
+207,76,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",28,4.25,3.16,1
+207,76,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",38.5,5.05,3.22,1
+208,79,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",21.5,4.5,3.25,1
+208,79,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",20,5.05,3.22,1
+209,80,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",NA,4.25,3.1,1
+209,80,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",21,5.05,3.09,1
+210,84,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",24,4.5,2.8,1
+210,84,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",32,5.05,2.89,1
+211,86,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",20.5,4.25,3.1,1
+211,86,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",19,5.05,3.14,1
+212,87,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",NA,4.5,2.94,1
+212,87,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",20,5.05,3.03,1
+213,88,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",23.5,4.25,2.84,1
+213,88,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",26.5,5.05,2.86,1
+214,91,"NJ","Burger King",1,"Central NJ",1,"Feb 1992 (before)",23,4.25,3.06,1
+214,91,"NJ","Burger King",1,"Central NJ",2,"Nov 1992 (after)",19,5.05,3.21,1
+215,92,"NJ","Burger King",1,"Central NJ",1,"Feb 1992 (before)",17,4.25,3.07,1
+215,92,"NJ","Burger King",1,"Central NJ",2,"Nov 1992 (after)",20,5.05,3.17,1
+216,93,"NJ","Burger King",1,"North NJ",1,"Feb 1992 (before)",20.5,4.25,NA,1
+216,93,"NJ","Burger King",1,"North NJ",2,"Nov 1992 (after)",22.5,5.05,3.21,1
+217,95,"NJ","KFC",0,"Central NJ",1,"Feb 1992 (before)",23.5,4.25,4.42,1
+217,95,"NJ","KFC",0,"Central NJ",2,"Nov 1992 (after)",10,5.05,4.33,1
+218,96,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",9.5,4.25,4.73,1
+218,96,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",12.5,5.05,4.58,1
+219,97,"NJ","KFC",0,"Central NJ",1,"Feb 1992 (before)",10,4.25,4.33,1
+219,97,"NJ","KFC",0,"Central NJ",2,"Nov 1992 (after)",11,5.05,4.39,1
+220,98,"NJ","KFC",0,"Central NJ",1,"Feb 1992 (before)",14,4.25,4.42,1
+220,98,"NJ","KFC",0,"Central NJ",2,"Nov 1992 (after)",12.5,5.05,4.48,1
+221,99,"NJ","Roy Rogers",1,"Central NJ",1,"Feb 1992 (before)",85,4.75,NA,1
+221,99,"NJ","Roy Rogers",1,"Central NJ",2,"Nov 1992 (after)",59,5.05,4.71,1
+222,101,"NJ","Roy Rogers",0,"Central NJ",1,"Feb 1992 (before)",15,4.75,3.44,1
+222,101,"NJ","Roy Rogers",0,"Central NJ",2,"Nov 1992 (after)",19,5.05,3.3,1
+223,102,"NJ","Roy Rogers",0,"South NJ",1,"Feb 1992 (before)",21.5,4.4,3.04,1
+223,102,"NJ","Roy Rogers",0,"South NJ",2,"Nov 1992 (after)",15.5,5.05,3.13,1
+224,104,"NJ","Wendy's",0,"Central NJ",1,"Feb 1992 (before)",53,4.62,2.73,1
+224,104,"NJ","Wendy's",0,"Central NJ",2,"Nov 1992 (after)",19,5.05,2.78,1
+225,105,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",24,4.25,2.99,1
+225,105,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",26.5,5.05,3.2,1
+226,106,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",20.5,4.25,2.96,1
+226,106,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",17.5,5.05,2.95,1
+227,107,"NJ","Burger King",1,"North NJ",1,"Feb 1992 (before)",14.5,4.25,3.07,1
+227,107,"NJ","Burger King",1,"North NJ",2,"Nov 1992 (after)",20.5,5.05,NA,1
+228,108,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",25,4.25,3.34,1
+228,108,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",28,5.05,3.44,1
+229,111,"NJ","Roy Rogers",0,"North NJ",1,"Feb 1992 (before)",27,4.25,3.24,1
+229,111,"NJ","Roy Rogers",0,"North NJ",2,"Nov 1992 (after)",30.25,5.05,3.32,1
+230,114,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",22.5,4.75,2.97,1
+230,114,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",44,5.25,2.99,1
+231,115,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",36.5,4.75,3.07,1
+231,115,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",17.5,5.05,3.01,1
+232,116,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",17.25,4.25,3.62,1
+232,116,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",31,5.05,3.55,1
+233,118,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",21.5,4.25,3.02,1
+233,118,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",31,5.05,2.99,1
+234,119,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",24.5,4.75,2.92,1
+234,119,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",28.5,5.05,2.89,1
+235,120,"NJ","Burger King",1,"Central NJ",1,"Feb 1992 (before)",19,4.5,3.15,1
+235,120,"NJ","Burger King",1,"Central NJ",2,"Nov 1992 (after)",19,5.05,3.15,1
+236,122,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",25,4.25,NA,1
+236,122,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",41,5.05,3.24,1
+237,124,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",16,4.25,3.01,1
+237,124,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",28,5.05,3.22,1
+238,125,"NJ","KFC",0,"Central NJ",1,"Feb 1992 (before)",19,4.5,4.1,1
+238,125,"NJ","KFC",0,"Central NJ",2,"Nov 1992 (after)",9.5,5.05,4.51,1
+239,130,"NJ","Roy Rogers",1,"Central NJ",1,"Feb 1992 (before)",22.75,4.5,3.19,1
+239,130,"NJ","Roy Rogers",1,"Central NJ",2,"Nov 1992 (after)",25,5.05,3.22,1
+240,132,"NJ","Roy Rogers",1,"Central NJ",1,"Feb 1992 (before)",35,4.5,4.64,1
+240,132,"NJ","Roy Rogers",1,"Central NJ",2,"Nov 1992 (after)",28,5.5,NA,1
+241,133,"NJ","Roy Rogers",1,"Central NJ",1,"Feb 1992 (before)",16,4.75,3.25,1
+241,133,"NJ","Roy Rogers",1,"Central NJ",2,"Nov 1992 (after)",16,5.05,4.28,1
+242,134,"NJ","Roy Rogers",0,"Central NJ",1,"Feb 1992 (before)",21,4.62,NA,1
+242,134,"NJ","Roy Rogers",0,"Central NJ",2,"Nov 1992 (after)",22.75,5.05,3.11,1
+243,136,"NJ","Roy Rogers",1,"Central NJ",1,"Feb 1992 (before)",26.75,4.25,3.29,0
+243,136,"NJ","Roy Rogers",1,"Central NJ",2,"Nov 1992 (after)",NA,NA,NA,0
+244,137,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",30.5,4.25,3.2,1
+244,137,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",32,5.05,3.27,1
+245,140,"NJ","Wendy's",0,"Central NJ",1,"Feb 1992 (before)",23,4.5,2.83,1
+245,140,"NJ","Wendy's",0,"Central NJ",2,"Nov 1992 (after)",27.5,5.67,2.99,1
+246,141,"NJ","Wendy's",0,"Central NJ",1,"Feb 1992 (before)",21.5,4.75,2.99,1
+246,141,"NJ","Wendy's",0,"Central NJ",2,"Nov 1992 (after)",25.5,5.05,3.23,1
+247,142,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",36.5,4.25,3.07,1
+247,142,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",60.5,5.05,3.16,1
+248,146,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",23,4.8,3.12,1
+248,146,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",20.5,5.05,3.09,1
+249,149,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",14,4.5,2.96,1
+249,149,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",16,5.05,2.93,1
+250,150,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",17.25,4.67,3.01,1
+250,150,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",25,5.75,2.87,1
+251,156,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",18.5,4.87,3.03,1
+251,156,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",13,5.05,2.9,1
+252,158,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",8.5,4.5,3.96,1
+252,158,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",9,5.05,4.38,1
+253,159,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",14,4.5,4.17,1
+253,159,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",16.5,5.25,4.28,1
+254,162,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",23,4.75,3.2,1
+254,162,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",21,5.05,3.17,1
+255,166,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",29,4.75,2.86,1
+255,166,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",21.5,5.05,3.21,1
+256,168,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",19,4.25,2.96,1
+256,168,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",20,5.25,3.2,1
+257,171,"NJ","Burger King",1,"North NJ",1,"Feb 1992 (before)",21,4.25,3.08,1
+257,171,"NJ","Burger King",1,"North NJ",2,"Nov 1992 (after)",21.25,5.05,3.25,1
+258,172,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",17,4.75,3.2,1
+258,172,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",21.5,5.05,3.17,1
+259,173,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",36,4.85,2.99,1
+259,173,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",31,5.05,3.03,1
+260,174,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",25,4.75,3.04,1
+260,174,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",33,5.05,2.93,1
+261,176,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",29.5,4.62,NA,1
+261,176,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",37.75,5.05,NA,1
+262,178,"NJ","KFC",1,"North NJ",1,"Feb 1992 (before)",22,4.25,4.1,1
+262,178,"NJ","KFC",1,"North NJ",2,"Nov 1992 (after)",9,5.05,4.59,1
+263,179,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",11,4.25,4.16,1
+263,179,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",11,5.05,4.27,1
+264,180,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",13.5,4.5,4.73,1
+264,180,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",12.75,5.05,4.95,1
+265,182,"NJ","KFC",0,"South NJ",1,"Feb 1992 (before)",13.5,4.5,4.73,1
+265,182,"NJ","KFC",0,"South NJ",2,"Nov 1992 (after)",10.5,5.05,4.78,1
+266,183,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",18,4.62,4.73,1
+266,183,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",22,5.05,4.8,1
+267,185,"NJ","KFC",0,"Central NJ",1,"Feb 1992 (before)",9.5,4.5,4.73,1
+267,185,"NJ","KFC",0,"Central NJ",2,"Nov 1992 (after)",8,5.05,4.8,1
+268,186,"NJ","Roy Rogers",0,"North NJ",1,"Feb 1992 (before)",24,4.75,3.09,1
+268,186,"NJ","Roy Rogers",0,"North NJ",2,"Nov 1992 (after)",25,5.05,3.18,1
+269,189,"NJ","Roy Rogers",0,"North NJ",1,"Feb 1992 (before)",14.5,4.75,3.31,1
+269,189,"NJ","Roy Rogers",0,"North NJ",2,"Nov 1992 (after)",12.5,5.05,3.22,1
+270,192,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",29,4.87,2.82,1
+270,192,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",22.5,5.25,3.15,1
+271,193,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",10.5,4.5,2.79,1
+271,193,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",11.5,5.05,3.17,1
+272,195,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",18,4.25,2.97,1
+272,195,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",23.5,5.05,3.89,1
+273,198,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",NA,4.25,2.96,1
+273,198,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",30,5.05,2.93,1
+274,199,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",9,4.35,3.99,1
+274,199,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",16.5,5.05,4.26,1
+275,200,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",33,4.25,2.95,1
+275,200,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",29,5.05,2.97,1
+276,201,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",19.5,4.5,3.03,1
+276,201,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",30,5.05,2.95,1
+277,202,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",41,4.25,2.75,1
+277,202,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",22.5,5.05,2.74,1
+278,203,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",17,4.25,2.96,1
+278,203,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",24,5.05,2.95,1
+279,204,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",18.25,4.25,3.12,1
+279,204,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",21.75,5.05,3.09,1
+280,207,"NJ","KFC",1,"North NJ",1,"Feb 1992 (before)",17,4.75,4.25,1
+280,207,"NJ","KFC",1,"North NJ",2,"Nov 1992 (after)",13.5,5.2,4.21,1
+281,208,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",32,4.62,2.98,1
+281,208,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",24,5.05,3.17,1
+282,209,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",26,4.25,3.07,1
+282,209,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",28.5,5.05,3.22,1
+283,210,"NJ","Wendy's",1,"North NJ",1,"Feb 1992 (before)",11.5,4.5,2.96,1
+283,210,"NJ","Wendy's",1,"North NJ",2,"Nov 1992 (after)",10,5.05,NA,1
+284,211,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",21,4.5,2.92,1
+284,211,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",23.5,5.05,NA,1
+285,212,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",22.75,4.5,2.78,1
+285,212,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",30.5,5.05,2.88,1
+286,213,"NJ","Burger King",1,"South NJ",1,"Feb 1992 (before)",18.5,4.55,2.82,1
+286,213,"NJ","Burger King",1,"South NJ",2,"Nov 1992 (after)",24.75,5.05,2.93,1
+287,214,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",20,4.62,2.82,1
+287,214,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",22.5,5.05,2.93,1
+288,215,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",18,4.5,2.86,1
+288,215,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",28,5.05,2.7,1
+289,216,"NJ","KFC",0,"South NJ",1,"Feb 1992 (before)",10.5,4.25,4.78,1
+289,216,"NJ","KFC",0,"South NJ",2,"Nov 1992 (after)",14,5.05,4.74,1
+290,217,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",10.5,4.25,3.88,1
+290,217,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",9,5.05,3.99,1
+291,218,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",11,4.35,3.93,1
+291,218,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",9.5,5.05,3.87,1
+292,219,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",10.5,4.25,3.99,1
+292,219,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",15.5,5.05,4.2,1
+293,220,"NJ","KFC",0,"South NJ",1,"Feb 1992 (before)",12.5,4.25,4.78,1
+293,220,"NJ","KFC",0,"South NJ",2,"Nov 1992 (after)",12,5.05,4.74,1
+294,221,"NJ","KFC",0,"South NJ",1,"Feb 1992 (before)",18,4.6,4.53,1
+294,221,"NJ","KFC",0,"South NJ",2,"Nov 1992 (after)",11.5,5.05,4.52,1
+295,222,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",17,4.25,3.03,1
+295,222,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",12.5,5.05,2.91,1
+296,223,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",15,4.75,NA,1
+296,223,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",16,5.05,2.96,1
+297,225,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",19.5,4.75,2.88,1
+297,225,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",28.5,5.05,2.96,1
+298,226,"NJ","Wendy's",0,"South NJ",1,"Feb 1992 (before)",13,4.25,2.61,1
+298,226,"NJ","Wendy's",0,"South NJ",2,"Nov 1992 (after)",15,5.3,2.79,1
+299,228,"NJ","Wendy's",0,"South NJ",1,"Feb 1992 (before)",20.25,4.5,2.76,1
+299,228,"NJ","Wendy's",0,"South NJ",2,"Nov 1992 (after)",23.5,5.05,2.73,1
+300,229,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",26,4.5,2.96,1
+300,229,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",30.5,5.5,2.89,1
+301,230,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",15.5,4.25,2.92,1
+301,230,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",26.5,5.05,2.93,1
+302,232,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",24,4.75,2.96,1
+302,232,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",27,5.05,2.95,1
+303,233,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",25.5,4.65,3.07,1
+303,233,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",21.5,5.05,2.93,1
+304,235,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",14.5,4.25,3.01,1
+304,235,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",NA,5.05,3.25,1
+305,237,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",21.5,4.25,3.07,1
+305,237,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",21.5,5.05,2.88,1
+306,238,"NJ","KFC",1,"North NJ",1,"Feb 1992 (before)",14,4.75,4.42,1
+306,238,"NJ","KFC",1,"North NJ",2,"Nov 1992 (after)",37.5,5.05,4.42,1
+307,239,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",20,4.25,4.74,1
+307,239,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",11.5,5.05,4.21,1
+308,243,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",22.5,4.5,2.83,1
+308,243,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",21,5.05,3.22,1
+309,244,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",30,4.25,3.31,1
+309,244,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",28,5.05,3.28,1
+310,247,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",24,4.5,3.17,1
+310,247,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",24,5.05,4.27,1
+311,248,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",22,4.75,2.97,1
+311,248,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",23,5.05,4.35,1
+312,249,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",13,4.37,3.14,1
+312,249,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",19,5.05,2.96,1
+313,250,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",5,4.5,NA,1
+313,250,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",7,5.05,4.3,1
+314,253,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",13.5,4.87,4.59,1
+314,253,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",14,5.05,4.62,1
+315,257,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",28,4.25,2.81,2
+315,257,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",NA,NA,NA,2
+316,258,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",18,4.25,2.88,1
+316,258,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",32,5.05,2.86,1
+317,260,"NJ","Burger King",1,"South NJ",1,"Feb 1992 (before)",24,4.25,2.87,1
+317,260,"NJ","Burger King",1,"South NJ",2,"Nov 1992 (after)",22,5.05,2.96,1
+318,262,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",16.5,4.25,3.07,1
+318,262,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",14.25,5.05,2.97,1
+319,264,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",7,4.25,2.81,1
+319,264,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",16.5,5.05,3.1,1
+320,265,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",11,4.25,2.84,3
+320,265,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",0,NA,NA,3
+321,267,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",19.5,4.25,2.5,1
+321,267,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",47.5,5.05,2.84,1
+322,269,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",10,4.45,3.14,1
+322,269,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",15.5,5.05,3.99,1
+323,273,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",13,4.62,4.03,1
+323,273,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",10.5,5.05,4.01,1
+324,275,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",10,4.25,4.08,1
+324,275,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",7,5.05,3.99,1
+325,277,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",12.5,4.25,4.14,1
+325,277,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",11,5.05,3.99,1
+326,278,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",8,4.25,3.88,1
+326,278,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",8.5,5.05,4,1
+327,282,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",12,4.25,2.76,3
+327,282,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",0,NA,NA,3
+328,284,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",20.5,4.5,2.84,1
+328,284,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",15,5.05,2.96,1
+329,285,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",18.5,4.75,2.73,1
+329,285,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",13.5,5.05,3.03,1
+330,286,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",11.5,4.75,NA,1
+330,286,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",12.5,5.05,2.97,1
+331,287,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",15,4.5,2.92,1
+331,287,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",12.5,5.05,2.96,1
+332,288,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",13,4.75,2.92,1
+332,288,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",12.5,5.05,2.91,1
+333,289,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",10,4.25,2.92,1
+333,289,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",10,5.05,4.02,1
+334,290,"NJ","Wendy's",0,"South NJ",1,"Feb 1992 (before)",17,4.75,2.79,1
+334,290,"NJ","Wendy's",0,"South NJ",2,"Nov 1992 (after)",13.5,5.05,2.79,1
+335,291,"NJ","Wendy's",0,"South NJ",1,"Feb 1992 (before)",17,4.55,2.76,1
+335,291,"NJ","Wendy's",0,"South NJ",2,"Nov 1992 (after)",16,5.1,2.79,1
+336,292,"NJ","Wendy's",0,"South NJ",1,"Feb 1992 (before)",20.5,4.8,2.82,1
+336,292,"NJ","Wendy's",0,"South NJ",2,"Nov 1992 (after)",23.5,5.05,4.53,1
+337,295,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",15.5,4.75,2.96,1
+337,295,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",NA,5.05,2.93,1
+338,297,"NJ","Burger King",1,"North NJ",1,"Feb 1992 (before)",19.5,4.25,2.95,1
+338,297,"NJ","Burger King",1,"North NJ",2,"Nov 1992 (after)",34,5.05,2.97,1
+339,303,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",30.5,4.35,3.14,1
+339,303,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",32.5,5.05,3.15,1
+340,304,"NJ","Roy Rogers",0,"North NJ",1,"Feb 1992 (before)",23,4.5,4.78,1
+340,304,"NJ","Roy Rogers",0,"North NJ",2,"Nov 1992 (after)",21.5,5.05,3.74,1
+341,305,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",13,4.39,3.6,1
+341,305,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",20,5.05,3.73,1
+342,307,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",30.25,4.25,3.44,1
+342,307,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",43.5,5.2,NA,1
+343,310,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",18,4.25,3.76,1
+343,310,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",17.5,5.05,3.93,1
+344,312,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",10,4.25,3.21,1
+344,312,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",7,5.05,3.33,1
+345,313,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",19.5,4.5,2.93,1
+345,313,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",NA,5.05,2.9,1
+346,314,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",17,4.62,2.92,1
+346,314,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",22,5.25,2.73,1
+347,316,"NJ","Burger King",1,"South NJ",1,"Feb 1992 (before)",25.5,4.62,2.85,1
+347,316,"NJ","Burger King",1,"South NJ",2,"Nov 1992 (after)",22,5.05,2.93,1
+348,317,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",6,4.25,3.11,1
+348,317,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",7,5.05,3.36,1
+349,318,"NJ","KFC",0,"South NJ",1,"Feb 1992 (before)",11.5,4.75,4.82,1
+349,318,"NJ","KFC",0,"South NJ",2,"Nov 1992 (after)",14,5.05,4.65,1
+350,319,"NJ","KFC",0,"South NJ",1,"Feb 1992 (before)",8.5,4.62,5.86,1
+350,319,"NJ","KFC",0,"South NJ",2,"Nov 1992 (after)",27,5.05,4.28,1
+351,322,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",18.5,4.75,3.14,1
+351,322,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",18.5,5.05,2.91,1
+352,325,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",15.5,4.5,2.94,1
+352,325,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",11.5,5.05,3.04,1
+353,333,"NJ","Burger King",0,"Central NJ",1,"Feb 1992 (before)",14.25,4.25,2.72,1
+353,333,"NJ","Burger King",0,"Central NJ",2,"Nov 1992 (after)",16,5.05,2.78,1
+354,336,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",38,4.5,2.86,1
+354,336,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",25,5.05,2.94,1
+355,337,"NJ","Burger King",1,"South NJ",1,"Feb 1992 (before)",24.75,4.87,2.92,1
+355,337,"NJ","Burger King",1,"South NJ",2,"Nov 1992 (after)",30.5,5.05,NA,1
+356,339,"NJ","Burger King",1,"South NJ",1,"Feb 1992 (before)",23,4.25,2.86,1
+356,339,"NJ","Burger King",1,"South NJ",2,"Nov 1992 (after)",11.5,5.05,2.85,1
+357,340,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",24,4.25,2.76,1
+357,340,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",25.5,5.05,2.73,1
+358,341,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",7.5,4.62,4.03,1
+358,341,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",9.5,5.05,4.06,1
+359,343,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",15,4.75,4.03,1
+359,343,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",11.5,5.05,4.12,1
+360,346,"NJ","KFC",1,"South NJ",1,"Feb 1992 (before)",9.25,4.25,NA,1
+360,346,"NJ","KFC",1,"South NJ",2,"Nov 1992 (after)",12,NA,NA,1
+361,348,"NJ","Roy Rogers",1,"Central NJ",1,"Feb 1992 (before)",11.25,4.25,3.03,3
+361,348,"NJ","Roy Rogers",1,"Central NJ",2,"Nov 1992 (after)",0,NA,NA,3
+362,350,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",16.5,4.75,3.09,1
+362,350,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",17,5.05,2.91,1
+363,351,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",18.75,4.25,2.87,1
+363,351,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",24,5.05,2.75,1
+364,352,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",13.5,4.75,3.02,5
+364,352,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",NA,NA,2.79,5
+365,353,"NJ","Roy Rogers",1,"South NJ",1,"Feb 1992 (before)",21.75,4.37,2.87,1
+365,353,"NJ","Roy Rogers",1,"South NJ",2,"Nov 1992 (after)",NA,5.05,2.91,1
+366,355,"NJ","Wendy's",0,"Central NJ",1,"Feb 1992 (before)",13.5,4.87,2.82,1
+366,355,"NJ","Wendy's",0,"Central NJ",2,"Nov 1992 (after)",13.5,NA,2.74,1
+367,359,"NJ","Burger King",1,"South NJ",1,"Feb 1992 (before)",15,4.25,2.69,1
+367,359,"NJ","Burger King",1,"South NJ",2,"Nov 1992 (after)",17,5.05,2.74,1
+368,360,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",17.5,4.25,2.79,1
+368,360,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",28,5.05,2.74,1
+369,361,"NJ","Burger King",0,"South NJ",1,"Feb 1992 (before)",17.5,4.25,2.78,1
+369,361,"NJ","Burger King",0,"South NJ",2,"Nov 1992 (after)",21.5,5.05,2.75,1
+370,362,"NJ","KFC",0,"South NJ",1,"Feb 1992 (before)",NA,4.25,4.32,1
+370,362,"NJ","KFC",0,"South NJ",2,"Nov 1992 (after)",30,5.05,4.32,1
+371,363,"NJ","KFC",0,"South NJ",1,"Feb 1992 (before)",15.5,4.25,4.31,1
+371,363,"NJ","KFC",0,"South NJ",2,"Nov 1992 (after)",19.5,5.2,4.24,1
+372,364,"NJ","KFC",0,"South NJ",1,"Feb 1992 (before)",16.5,4.25,4.25,1
+372,364,"NJ","KFC",0,"South NJ",2,"Nov 1992 (after)",20,5.05,4.32,1
+373,366,"NJ","Roy Rogers",0,"South NJ",1,"Feb 1992 (before)",13.5,4.5,2.56,1
+373,366,"NJ","Roy Rogers",0,"South NJ",2,"Nov 1992 (after)",14.5,5.05,2.54,1
+374,368,"NJ","Wendy's",0,"South NJ",1,"Feb 1992 (before)",13,4.25,2.7,1
+374,368,"NJ","Wendy's",0,"South NJ",2,"Nov 1992 (after)",14.5,5.05,2.8,1
+375,369,"NJ","Burger King",1,"North NJ",1,"Feb 1992 (before)",11.5,4.35,3.4,3
+375,369,"NJ","Burger King",1,"North NJ",2,"Nov 1992 (after)",0,NA,NA,3
+376,370,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",29.05,4.85,2.96,1
+376,370,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",31.5,5.05,NA,1
+377,376,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",13,4.5,2.86,1
+377,376,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",11.5,5.05,3.27,1
+378,377,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",18,4.25,2.96,1
+378,377,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",20,5.05,2.94,1
+379,379,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",30,4.62,3.07,1
+379,379,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",34,5.05,3.18,1
+380,380,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",20.5,4.5,2.96,1
+380,380,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",25,5.05,2.93,1
+381,383,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",10,4.5,3.05,1
+381,383,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",10,5.05,3.22,1
+382,384,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",NA,4.65,2.96,1
+382,384,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",18,5.05,2.99,1
+383,385,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",26,4.25,NA,1
+383,385,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",25,5.05,2.79,1
+384,386,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",12.5,4.25,2.96,1
+384,386,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",23,5.05,2.95,1
+385,391,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",19.5,4.25,4.78,1
+385,391,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",17.5,5.05,4.74,1
+386,393,"NJ","KFC",1,"North NJ",1,"Feb 1992 (before)",12,4.62,5.21,1
+386,393,"NJ","KFC",1,"North NJ",2,"Nov 1992 (after)",23,5.25,5.17,1
+387,396,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",36,4.87,4.47,1
+387,396,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",26,5.4,3.21,1
+388,397,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",21,4.25,3.2,1
+388,397,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",16.5,5.05,4.34,1
+389,398,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",24.5,4.75,3.24,1
+389,398,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",35.5,5.05,3.22,1
+390,399,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",20,4.87,3.43,1
+390,399,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",31,5.05,3.39,1
+391,400,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",26.5,4.5,3.32,1
+391,400,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",23,5.05,3.23,1
+392,401,"NJ","Roy Rogers",0,"North NJ",1,"Feb 1992 (before)",15,4.25,3.16,1
+392,401,"NJ","Roy Rogers",0,"North NJ",2,"Nov 1992 (after)",22.5,5.05,3.22,1
+393,402,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",19,4.75,3.2,1
+393,402,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",21.5,5.05,3.21,1
+394,405,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",17.5,4.32,3.2,1
+394,405,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",12,5.05,3.18,1
+395,410,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",20.5,4.25,3.18,1
+395,410,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",20.5,5.05,3.18,1
+396,411,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",21,4.5,3.27,1
+396,411,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",25,5.05,3.17,1
+397,412,"NJ","KFC",0,"Central NJ",1,"Feb 1992 (before)",10.5,4.5,4.42,1
+397,412,"NJ","KFC",0,"Central NJ",2,"Nov 1992 (after)",8.5,5.05,4.84,1
+398,413,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",23,4.25,3.2,1
+398,413,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",13,5.05,3.17,1
+399,414,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",23,4.25,3.12,1
+399,414,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",21.5,5.05,3.23,1
+400,415,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",29,4.25,2.95,1
+400,415,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",23,5.05,2.99,1
+401,417,"NJ","Burger King",1,"North NJ",1,"Feb 1992 (before)",21,4.25,3.06,1
+401,417,"NJ","Burger King",1,"North NJ",2,"Nov 1992 (after)",25.5,5.05,3.2,1
+402,418,"NJ","Burger King",0,"North NJ",1,"Feb 1992 (before)",41.5,4.25,2.55,1
+402,418,"NJ","Burger King",0,"North NJ",2,"Nov 1992 (after)",21.5,5.05,2.52,1
+403,419,"NJ","KFC",1,"North NJ",1,"Feb 1992 (before)",12,4.25,4.25,1
+403,419,"NJ","KFC",1,"North NJ",2,"Nov 1992 (after)",9.5,5.05,4.42,1
+404,421,"NJ","KFC",1,"North NJ",1,"Feb 1992 (before)",33,4.62,4.25,1
+404,421,"NJ","KFC",1,"North NJ",2,"Nov 1992 (after)",36.5,5.05,4.21,1
+405,422,"NJ","KFC",0,"North NJ",1,"Feb 1992 (before)",6.5,4.75,4.25,1
+405,422,"NJ","KFC",0,"North NJ",2,"Nov 1992 (after)",16,5.05,4.17,1
+406,423,"NJ","KFC",1,"North NJ",1,"Feb 1992 (before)",9,4.95,4.25,1
+406,423,"NJ","KFC",1,"North NJ",2,"Nov 1992 (after)",23.75,5.25,4.21,1
+407,424,"NJ","KFC",1,"North NJ",1,"Feb 1992 (before)",9.75,4.75,4.25,1
+407,424,"NJ","KFC",1,"North NJ",2,"Nov 1992 (after)",17.5,5.25,4.31,1
+408,426,"NJ","Roy Rogers",1,"North NJ",1,"Feb 1992 (before)",24.5,4.25,3.26,1
+408,426,"NJ","Roy Rogers",1,"North NJ",2,"Nov 1992 (after)",20.5,5.05,3.21,1
+409,427,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",14,4.75,4.07,1
+409,427,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",20.5,5.05,4.27,1
+410,428,"NJ","Wendy's",0,"North NJ",1,"Feb 1992 (before)",19.5,4.62,3.1,1
+410,428,"NJ","Wendy's",0,"North NJ",2,"Nov 1992 (after)",25,5.14,4.05,1

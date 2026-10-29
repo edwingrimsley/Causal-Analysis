@@ -1,0 +1,148 @@
+---
+title: Home
+---
+
+# QMSS 75000 / SOC 81900: Causal Analysis for Public Policy and Social Science
+
+Fall '26, CUNY Graduate Center
+
+---
+
+## Course Overview
+
+This course trains students to design, critique, and execute rigorous causal analyses for public policy and social science research. Causal inference is treated as a design problem, not a statistical trick — regression, matching, weighting, difference-in-differences, regression discontinuity, instrumental variables, experiments, and sensitivity analysis are useful only when tied to a clear estimand, a plausible identification strategy, and transparent evidence about threats to validity.
+
+Students will work primarily in R, replicating published estimates, diagnosing assumptions, and building toward an original causal research paper. In this course we will answer questions including:
+
+- What does it mean for a claim to be causal, and why is a correlation not enough?
+- How do experiments, matching, fixed effects, difference-in-differences, and instrumental variables each solve the identification problem differently?
+- How credible is a given research design, and what would make a skeptical reader believe it?
+- How do you translate a substantive policy question into an estimand, a design, and an analysis plan?
+
+## Instructor
+
+Edwin Grimsley, Ph.D.
+Office Hours: details on Brightspace
+E-mail: edwin.grimsley@baruch.cuny.edu
+
+## Prerequisites
+
+Working knowledge of R and at least one graduate-level course in multivariate regression.
+
+## Time
+
+Thursdays, 6:30 PM – 8:30 PM
+GradCenter 6418
+
+## Final Paper
+
+Due Week 14 — a causal-inference research paper applying course methods to an empirical policy or social science question, in lieu of a final exam. Presented in class.
+
+## Grade Breakdown
+
+25% Labs (in-class applied exercises, one per week)
+45% Homework (7 coding problem sets + 2 design memos)
+5% Final Paper Presentation
+25% Final Paper
+
+## Late Submission Policy
+
+Because many assignments feed directly into seminar discussion and peer review, late work should be discussed with the instructor before the deadline whenever possible. Genuine constraints will be accommodated, but silent late submissions may be penalized.
+
+## Academic Integrity
+
+The course follows CUNY academic integrity policies. Proper attribution is required for data, code, published research, and AI-assisted work. Do not submit fabricated results, unverifiable citations, or code you cannot explain.
+
+## Course Materials
+
+**Required (ZTC — Zero Textbook Cost, all free)**
+
+1. Green, Donald P. (2022). *Social Science Experiments: A Hands-on Introduction*. Cambridge University Press.
+2. Rosenbaum, Paul R. (2023). *Causal Inference*. The MIT Press.
+3. Huntington-Klein, Nick (2025). *The Effect: An Introduction to Research Design and Causality* — [free online](https://theeffectbook.net)
+
+**Software:** R and RStudio (primary). No prior R experience required.
+
+Slides, labs, and homework are posted in the schedule below as they are released.
+
+## Key Readings
+
+Links go to the published version (use your CUNY library login if prompted) and, where one exists, a free version.
+
+**Week 4 — Randomized Controlled Trials**
+
+- Chattopadhyay, R. & Duflo, E. (2004). Women as Policy Makers: Evidence from a Randomized Policy Experiment in India. *Econometrica*, 72(5), 1409–1443. [Published](https://doi.org/10.1111/j.1468-0262.2004.00539.x) — *Lab 3*
+- Gerber, A. S., Green, D. P. & Larimer, C. W. (2008). Social Pressure and Voter Turnout: Evidence from a Large-Scale Field Experiment. *American Political Science Review*, 102(1), 33–48. [Published](https://doi.org/10.1017/S000305540808009X) — *Lab 3*
+- Bertrand, M. & Mullainathan, S. (2004). Are Emily and Greg More Employable than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination. *American Economic Review*, 94(4), 991–1013. [Published](https://doi.org/10.1257/0002828042002561) · [Free working paper](https://dspace.mit.edu/handle/1721.1/63261) — *Homework 3*
+- Pager, D. (2003). The Mark of a Criminal Record. *American Journal of Sociology*, 108(5), 937–975. [Published](https://doi.org/10.1086/374403) · [Author PDF](https://scholar.harvard.edu/files/pager/files/pager_ajs.pdf) — *Homework 3 framing*
+- *Optional:* Pager, D., Western, B. & Bonikowski, B. (2009). Discrimination in a Low-Wage Labor Market: A Field Experiment. *American Sociological Review*, 74(5), 777–799. [Free version](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2915472)
+
+**Week 5 — Read before class on October 1**
+
+- Agan, A. & Starr, S. (2018). Ban the Box, Criminal Records, and Racial Discrimination: A Field Experiment. *Quarterly Journal of Economics*, 133(1), 191–235. [Published](https://doi.org/10.1093/qje/qjx028) — *Lab 4 replication*
+  - As you read: What did the researchers randomize, and what did they not? Which comparisons in the paper are experimental, and which are before-and-after?
+
+**Week 6 — Matching and Propensity Scores · Read before class on October 8**
+
+- Austin, P. C. (2011). An Introduction to Propensity Score Methods for Reducing the Effects of Confounding in Observational Studies. *Multivariate Behavioral Research*, 46(3), 399–424. [Free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3144483/) — *Main reading*
+  - Read closely the sections on propensity score matching, balance diagnostics, and variable selection; skim the other methods (stratification, weighting, covariate adjustment).
+  - As you read: Why might treated and untreated people differ before treatment? How do we determine whether matching produced a credible comparison group? Why can good balance on observed characteristics still leave confounding from unobserved characteristics?
+- *The debate: college-in-prison and propensity score matching.* Vera used matching to compare incarcerated college participants with similar nonparticipants and reported lower reconviction among participants; Jennifer Doleac (Arnold Ventures) argued that participants may differ in motivation or readiness to change in ways recorded characteristics miss.
+  - Turner, N. (2023, December 6). Impact Over Orthodoxy. Vera Institute of Justice. [Read](https://www.vera.org/news/impact-over-orthodoxy)
+  - Gelman, A. (2024, June 13). Arnold Foundation and Vera Institute Argue about a Study of the Effectiveness of College Education Programs in Prison. *Statistical Modeling, Causal Inference, and Social Science*. [Read](https://statmodeling.stat.columbia.edu/2024/06/13/arnold-foundation-and-vera-institute-argue-about-a-study-of-the-effectiveness-of-college-education-programs-in-prison/) — includes Doleac's critique
+  - For discussion: Can a study provide useful policy evidence without convincingly identifying a causal effect, and how should researchers communicate that distinction?
+- *Optional:* Stuart, E. A. (2010). Matching Methods for Causal Inference: A Review and a Look Forward. *Statistical Science*, 25(1), 1–21. [Free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC2943670/) — places propensity scores within the broader matching toolkit and emphasizes designing the comparison before looking at outcomes.
+
+**Week 7 — Fixed Effects · Read before class on October 15**
+
+- Huntington-Klein, N. *The Effect*, ch. 16, "Fixed Effects." [Free online](https://theeffectbook.net/ch-FixedEffects.html) — *Main reading*
+  - Read 16.1–16.2 and 16.3.1 (clustered standard errors) closely; skim random effects and nonlinear models.
+- Western, B. (2002). The Impact of Incarceration on Wage Mobility and Inequality. *American Sociological Review*, 67(4), 526–546. [Published](https://doi.org/10.1177/000312240206700403) — *Application*
+  - Uses NLSY79 data with person fixed effects: incarceration cuts wages by 10–20% and slows wage growth by about 30%.
+- Imai, K. & Kim, I. S. (2019). When Should We Use Unit Fixed Effects Regression Models for Causal Inference with Longitudinal Data? *American Journal of Political Science*, 63(2), 467–490. [Free PDF](https://imai.fas.harvard.edu/research/files/FEmatch.pdf) — *Critique*
+  - Unit fixed effects remove time-invariant confounders, but only by ruling out dynamics: past outcomes can't shape current treatment, and past treatment can't shape current outcomes.
+- As you read: What does a fixed effect remove, and what kinds of confounding can it never remove? In Western's study, which differences between people who were and weren't incarcerated do person fixed effects handle, and which do they miss? Is Imai and Kim's no-dynamics assumption plausible when the "treatment" is contact with the criminal justice system?
+- *Optional:* Vaisey, S. & Miles, A. (2017). What You Can—and Can't—Do With Three-Wave Panel Data. *Sociological Methods & Research*, 46(1), 44–67. [Published](https://doi.org/10.1177/0049124114547769) — fixed effects rest on two rarely tested assumptions, and the wrong lag can flip a coefficient's sign.
+- *Optional:* Mummolo, J. & Peterson, E. (2018). Improving the Interpretation of Fixed Effects Regression Results. *Political Science Research and Methods*, 6(4), 829–835. [Free PDF](https://jmummolo.scholar.princeton.edu/document/151) — how much variation is left once units are compared only with themselves.
+
+**Week 8 — Difference-in-Differences I · Read before class on October 22**
+
+- Card, D. & Krueger, A. B. (1994). Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania. *American Economic Review*, 84(4), 772–793. [Record](https://ideas.repec.org/a/aea/aecrev/v84y1994i4p772-93.html) · [Free working paper (NBER)](https://www.nber.org/papers/w4509) — *Lab 7*
+  - New Jersey raised its minimum wage in 1992; neighboring Pennsylvania didn't. Fast-food employment in both states, before and after.
+- Huntington-Klein, N. *The Effect*, ch. 18, "Difference-in-Differences." [Free online](https://theeffectbook.net/ch-DifferenceinDifference.html) — *Main reading*
+  - Read 18.1 closely, especially 18.1.4 on untreated groups and parallel trends, and 18.2.1 and 18.2.3.
+- As you read: What is the treatment, and what is the comparison group? What would have to be true about New Jersey and Pennsylvania for the comparison to be valid? Card and Krueger observe each state at only one point before the law. What can and can't they say about parallel trends?
+- Kessler, J. B. & Roth, A. E. (2014). Don't Take 'No' for an Answer: An Experiment with Actual Organ Donor Registrations. NBER Working Paper 20378. [Free working paper](https://www.nber.org/papers/w20378) — *Lab 7, Part 7*; the organ-donation example in *The Effect*, ch. 18
+- *Optional, the debate:* Neumark, D. & Wascher, W. (2000). Comment. *AER*, 90(5), 1362–1396. [Record](https://ideas.repec.org/a/aea/aecrev/v90y2000i5p1362-1396.html) · Card, D. & Krueger, A. B. (2000). Reply. *AER*, 90(5), 1397–1420. [Record](https://ideas.repec.org/a/aea/aecrev/v90y2000i5p1397-1420.html) — payroll records vs. phone surveys.
+
+**Week 9 — Difference-in-Differences II: Event Studies · Read before class on October 29**
+
+- Legewie, J. & Fagan, J. (2019). Aggressive Policing and the Educational Performance of Minority Youth. *American Sociological Review*, 84(2), 220–247. [Published](https://doi.org/10.1177/0003122419826020) · [Free PDF](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=3319&context=faculty_scholarship) · [Replication code (OSF)](https://osf.io/5mzue/) — *Lab 8 replication*
+  - Operation Impact flooded high-crime "impact zones" with officers in staggered phases; the paper compares students living in zones before and after designation with students in zones designated at other times.
+  - As you read: What is the treatment, and what is the comparison group? Why does the staggered timing of impact zones matter for the design? What would have to be true about test scores in early- and late-designated zones for the estimate to be causal, and how do the authors check it?
+- MacDonald, J., Fagan, J. & Geller, A. (2016). The Effects of Local Police Surges on Crime and Arrests in New York City. *PLOS ONE*, 11(6), e0157223. [Open access](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157223) · [Data and code (GitHub)](https://github.com/macdonaldjohn/Impact-Zone-Data) — *Lab 8, Part 5*; the same impact zones, with crime and arrests as outcomes
+- *Optional:* Callaway, B. & Sant'Anna, P. H. C. (2021). Difference-in-Differences with Multiple Time Periods. *Journal of Econometrics*, 225(2), 200–230. [Published](https://doi.org/10.1016/j.jeconom.2020.12.001) · Roth, J. (2022). Pretest with Caution: Event-Study Estimates after Testing for Parallel Trends. *AER: Insights*, 4(3), 305–322. [Published](https://doi.org/10.1257/aeri.20210236)
+
+## Schedule (draft — subject to change)
+
+[Full Syllabus](files/CUNY-GC-causal-analysis-syllabus-merged.docx)
+
+| Description | Week | Slides | Labs | Homework |
+|---|---|---|---|---|
+| Regression/R Refresher | 1 — Sept 3 | [Slides](files/intro-to-causal-thinking.pptx) | [R Refresher (warm-up)](files/r-refresher-warmup.docx) | — |
+| Stratification, Regression, and Causal Adjustment | 2 — Sept 10 | [Slides](files/week2-stratification-controls.pptx) | [Lab 1](files/lab1-confounders-vs-colliders.docx) | [Homework 1 (PS1)](files/homework1-problemset1-sensitivity-analysis.docx) |
+| Potential Outcomes and DAGs | 3 — Sept 17 | [Slides](files/week3-dags-potential-outcomes.pptx) | [Lab 2](files/lab2-dags-and-ate-preview-revised.docx) | [Homework 2 (PS2)](files/homework2-problemset2-ate-att-atu.docx) |
+| Randomized Controlled Trials | 4 — Sept 24 | [Slides](files/week4-rcts-slides.pptx) | [Lab 3](files/lab3-rct-experiments-and-balance-table.docx) · [R script](files/week4-lab3.R) | [Homework 3 (PS3)](files/homework3-problemset3-race-callbacks.docx) · [R script](files/week4-homework3.R) |
+| Audit Experiments and Policy Change: Ban the Box | 5 — Oct 1 | [Slides](files/week5-ban-the-box.pptx) | [Lab 4](files/lab4-ban-the-box-replication.docx) · [R script](files/week5-lab4.R) · [Data](files/AganStarrQJEData.dta) | [Homework 4 (Design Memo)](files/homework4-design-memo-ban-the-box.docx) — due Oct 15 |
+| Matching and Propensity Scores | 6 — Oct 8 | — | [Lab 5](files/week6-matching-lab-student.docx) · [R script](files/week6-lab5.R) | No new homework · Homework 4 (Design Memo) due Oct 15 |
+| Fixed Effects | 7 — Oct 15 | [Slides](files/week7-fixed-effects.pptx) | [Lab 6](files/lab6-fixed-effects-nlsy97.docx) · [R script](files/week7-lab6.R) · [Data](files/lab6-nlsy97.rda) | No new homework |
+| DiD I: Card & Krueger and Parallel Trends | 8 — Oct 22 | [Slides](files/week8-difference-in-differences.pptx) | [Lab 7](files/lab7-did-card-krueger.docx) · [R script](files/week8-lab7.R) · [Data: Card & Krueger](files/card-krueger-1994.csv) · [Data: organ donation](files/organ-donations.csv) | [Homework 5 (PS5): Sourdough DiD](files/homework5-problemset5-sourdough-did.docx) · [R script](files/week8-homework5.R) · [Data](files/sourdough_trends.csv) — due Oct 29 |
+| DiD II: Staggered Timing and Event Studies — Operation Impact | 9 — Oct 29 | [Slides](files/week9-staggered-did.pptx) | Lab 8: [R script](files/week9-lab8.R) · [Part 5 R script: crime and arrests](files/week9-lab8-part5-macdonald-fagan-geller.R) · [Data: simulated students](files/lab8-operation-impact-sim.rds) · [Data: zones by year](files/lab8-operation-impact-nbhd.rds) · [Data: crime](files/lab8-mfg-crime.rds) · [Data: arrests](files/lab8-mfg-arrests.rds) · [How the data were built](files/week9-lab8-simulate-data.R) | Problem Set 6 |
+| Boundary Designs / Proximity Policing | 10 — Nov 5 | — | [Lab 9](files/week10-boundary-nycha-nypd-lab-hw.docx) | — |
+| Research Question Workshop | 11 — Nov 12 | — | [Lab 10](files/week11-research-questions-workshop-guide.docx) | Final Paper Outline |
+| IV, RD, Sensitivity | 12 — Nov 19 | — | [Lab 11](files/week12-iv-rd-sensitivity-lab-hw.docx) | Problem Set 7 |
+| *No class (Thanksgiving)* | — Nov 26 | — | — | — |
+| External Validity and Paper Workshop | 13 — Dec 3 | — | [Lab 12](files/week13-external-validity-workshop-guide.docx) | — |
+| Final Paper Presentations | 14 — Dec 10 | [Guidelines & Rubric](files/final-presentation-guidelines-rubric.docx) | — | Final Paper Due |
+
+**Note:** Term runs September 3 – December 10, 2026. Class meets Thursdays. Materials appear in the table as they are finalized.
